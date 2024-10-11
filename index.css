@@ -1,0 +1,15 @@
+body{
+    background-image: url(./images/apart6.jpg);
+    background-size: cover;
+
+}
+nav.o{
+    display: flex;
+    justify-content: space-between;
+    gap: 50 ;
+    list-style: none;
+    display: inline;
+    margin-left: 100px;
+    margin-right: 100px;
+            
+}
