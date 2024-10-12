@@ -1,0 +1,19 @@
+tr:nth-child(even) {background-color: aqua;}
+th:nth-child(even) {background-color: brown;}
+
+tr:hover {background-color: aliceblue;}
+table{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    border-collapse: collapse ;
+  
+}
+td,th {
+    border:5px solid black;
+    width: 70;
+    padding: 6px;
+    text-align: left
+    
+}
+
