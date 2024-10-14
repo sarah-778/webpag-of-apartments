@@ -7,13 +7,18 @@ table{
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
     border-collapse: collapse ;
-  
+  border-style: double;
+  border:5px solid black;
 }
-td,th {
-    border:5px solid black;
-    width: 70;
+tr,th {
+   
+    width: 70px;
     padding: 6px;
     text-align: left
     
 }
-
+tr, td{
+    width: 70px;
+    padding: 6px;
+    text-align: center;
+}
