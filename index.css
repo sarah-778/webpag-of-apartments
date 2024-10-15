@@ -6,11 +6,24 @@ body{
 nav.o{
     display: flex;
     justify-content: space-between;
-    gap: 50 ;
+   
+    
+    
+    
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+ul li{
     list-style: none;
-    display: inline;
-    margin-left: 2000px;
-    margin-right: 200px;       
+    margin-left: 62px;
+    font-size: 14px;
+    margin-top: 27px;
+
 }
 main{
 content:bold ;
