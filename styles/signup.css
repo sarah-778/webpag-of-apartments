@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+body h1{
+    color: blueviolet;
+    
+}
+.form{
+background-color: aliceblue;
+padding: 27px;
+width: 200px;
+height: 200px;
+left: 87px;
+top: 78px;
+border-radius: 10px;
+position: absolute;
+
+}
+
